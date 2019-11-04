@@ -1,0 +1,260 @@
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM1': WindowsError(2, 'O sistema n\xe3o pode encontrar o arquivo especificado.')
+
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM7': WindowsError(2, 'O sistema n\xe3o pode encontrar o arquivo especificado.')
+
+Exception in thread Thread-11:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM7': WindowsError(2, 'O sistema n\xe3o pode encontrar o arquivo especificado.')
+
+Exception in thread Thread-15:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM7': WindowsError(5, 'Acesso negado.')
+
+Exception in thread Thread-16:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM7': WindowsError(5, 'Acesso negado.')
+
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM1': WindowsError(2, 'O sistema n\xe3o pode encontrar o arquivo especificado.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM1': WindowsError(2, 'O sistema n\xe3o pode encontrar o arquivo especificado.')
+
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM7': WindowsError(5, 'Acesso negado.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+SerialException: could not open port 'COM7': WindowsError(5, 'Acesso negado.')
+
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-11:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-12:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Exception in thread Thread-13:
+Traceback (most recent call last):
+  File "threading.pyo", line 810, in __bootstrap_inner
+  File "esp8266_flasher.py", line 19, in run
+  File "downloader.pyo", line 54, in __init__
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 82, in open
+  File "serial\serialwin32.pyo", line 202, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: WindowsError(31, 'Um dispositivo conectado ao sistema n\xe3o est\xe1 funcionando.')
+
+Traceback (most recent call last):
+  File "esp8266_flasher.py", line 81, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc1' in position 14: ordinal not in range(128)

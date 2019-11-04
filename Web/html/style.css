@@ -1,0 +1,73 @@
+
+/*  TAGS    */
+
+
+*{
+    font-family: helvetica,arial;
+    font-size: 20px;
+}
+
+header{
+    min-height: 200px;
+    background-color: #546565 ;
+    padding: 0px 0px 0px 0px;
+
+}
+
+footer{
+    clear: both;
+    background-color: #546565;
+    height: 50px;
+    padding: 15px 0px 0px 0px;
+    color: black;
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    text-shadow: 2px 1px 1px #111111;
+}
+
+
+/*  ID'S    */
+
+#principal{
+    background-image: url(rod2.jpeg);
+    background-position: center;
+    background-size: 1500px;
+    height: 900px;
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    padding: 30px;
+    clear: both;
+}
+
+#logo{
+    float: left;
+    margin-top: 25px;
+}
+#menu{
+    margin-top: 90px;
+    float: right;
+}
+#menu a{
+    text-decoration: none;
+    padding: 10px 5px;
+    color: white;
+    text-shadow: 1px 1px 1px #111;
+}
+#menu a:hover{
+    background-color: rgba(0,0,0,0.5);
+    color: blue;
+}
+
+/*  CLASS   */
+
+.container{
+    margin:0 auto;
+    width: 1000px
+}
+.efeito{
+    background-color: rgba(0,0, 0, 0.5)
+}
